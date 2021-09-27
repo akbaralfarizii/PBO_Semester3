@@ -3,7 +3,7 @@ import java.util.*;
 public class Soal1 {
     public static void main(String[] args) {
         int i, t;
-        float n;
+        long n;
         Scanner keyboard = new Scanner(System.in);
         System.out.printf("Masukkan banyaknya nilai yang akan di cek:");
         t = keyboard.nextInt();
